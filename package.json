@@ -1,6 +1,6 @@
 {
   "name": "@anuragpandey012/oddeven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "is the number even or odd",
   "main": "index.js",
   "scripts": {
